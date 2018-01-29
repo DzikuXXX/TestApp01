@@ -1,0 +1,26 @@
+<resources>
+
+    //add eventDB strings
+    <string name="edit_eventTitle">Event title</string>
+    <string name="edit_eventDesc">Event description</string>
+    <string name="edit_eventSetTime">Set event time</string>
+    <string name="edit_eventSetDate">Set event date</string>
+    <string name="button_eventSetTime">Set event ime</string>
+    <string name="button_eventSetDate">Set event date</string>
+    <string name="button_saveTask">Save task</string>
+
+    //test
+    <string name="app_name">TestApp01</string>
+    <string name="edit_msg">Test msg</string>
+    <string name="button_send">Send</string>
+    <string name="button_oauth">OAuth2</string>
+    <string name="button_form">Add event</string>
+
+    <string name="button_getAllEvents">Get all events</string>
+    <string name="button_getAllEventsFromDB">Display database content</string>
+    <string name="button_showCalendar">Show calendar</string>
+    <string name="button_deleteAllEventsFromDB">Delete database content</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
